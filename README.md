@@ -3,7 +3,7 @@
 Includes :
 
   - Searching
-        - Liner search
+        - Linear search
         - Binary serach
   - Sorting
         - Bubble Sort
