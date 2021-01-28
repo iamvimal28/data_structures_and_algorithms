@@ -1,5 +1,5 @@
 
-#Selectionn sort has the time complexity for O(n^2) (Big O of n squared)
+#Selection sort has the time complexity for O(n^2) (Big O of n squared)
 def selection_sort(arr, arr_len):
 	for i in range(0,arr_len-1):
 		minimum = i #Assuming minimum value index to be id
