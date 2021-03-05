@@ -4,7 +4,7 @@ Includes :
 
   - Searching
         - Linear search
-        - Binary serach
+        - Binary search
   - Sorting
         - Bubble Sort
         - Selection Sort
