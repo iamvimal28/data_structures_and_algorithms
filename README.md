@@ -1,4 +1,4 @@
-# Popular Algorithms for reference in Java and Python
+# Algorithms for quick reference in Java and Python
 
 Includes :
 
